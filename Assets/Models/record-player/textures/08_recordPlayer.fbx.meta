@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 3415e6f0ff4be41bc904432e6108c5ff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: case1
+    100004: disc_01
+    100006: disc_010
+    100008: disc_011
+    100010: disc_012
+    100012: disc_02
+    100014: disc_03
+    100016: disc_04
+    100018: disc_05
+    100020: disc_06
+    100022: disc_07
+    100024: disc_08
+    100026: disc_09
+    100028: floor
+    100030: smallObjects
+    400000: //RootNode
+    400002: case1
+    400004: disc_01
+    400006: disc_010
+    400008: disc_011
+    400010: disc_012
+    400012: disc_02
+    400014: disc_03
+    400016: disc_04
+    400018: disc_05
+    400020: disc_06
+    400022: disc_07
+    400024: disc_08
+    400026: disc_09
+    400028: floor
+    400030: smallObjects
+    2100000: lambert1
+    2100002: disc_ma_011
+    2100004: disc_ma_010
+    2100006: disc_ma_07
+    2100008: disc_ma_08
+    2100010: disc_ma_03
+    2100012: disc_ma_09
+    2100014: disc_ma_05
+    2100016: disc_ma_04
+    2100018: disc_ma_02
+    2100020: disc_ma_06
+    2100022: case_ma
+    2100024: disc_ma_01
+    2100026: smallObjects_ma
+    2100028: floor_ma
+    2300000: case1
+    2300002: disc_01
+    2300004: disc_010
+    2300006: disc_011
+    2300008: disc_012
+    2300010: disc_02
+    2300012: disc_03
+    2300014: disc_04
+    2300016: disc_05
+    2300018: disc_06
+    2300020: disc_07
+    2300022: disc_08
+    2300024: disc_09
+    2300026: floor
+    2300028: smallObjects
+    3300000: case1
+    3300002: disc_01
+    3300004: disc_010
+    3300006: disc_011
+    3300008: disc_012
+    3300010: disc_02
+    3300012: disc_03
+    3300014: disc_04
+    3300016: disc_05
+    3300018: disc_06
+    3300020: disc_07
+    3300022: disc_08
+    3300024: disc_09
+    3300026: floor
+    3300028: smallObjects
+    4300000: disc_012
+    4300002: disc_011
+    4300004: disc_010
+    4300006: disc_07
+    4300008: disc_08
+    4300010: disc_03
+    4300012: disc_09
+    4300014: disc_05
+    4300016: disc_04
+    4300018: disc_02
+    4300020: disc_06
+    4300022: case1
+    4300024: disc_01
+    4300026: smallObjects
+    4300028: floor
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: case_ma
+    second: {fileID: 2100000, guid: f65fa768a6b3e4b5f95e6bdcac04bf5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_01
+    second: {fileID: 2100000, guid: bf2b70e96761b49d296d2a9e0ddff7ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_010
+    second: {fileID: 2100000, guid: 6b4e08ec7cc434696aae8a56849adb88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_011
+    second: {fileID: 2100000, guid: 75383edad4d1744a7852b601c8068c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_02
+    second: {fileID: 2100000, guid: 2584a2c05feea4ccf96cc2e5ec314193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_03
+    second: {fileID: 2100000, guid: e696679356bb34cf7b5952ec4f68ce07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_04
+    second: {fileID: 2100000, guid: 00e5082e3f04a4ce8b0f07da7937e7f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_05
+    second: {fileID: 2100000, guid: 60bcf60ed72824fe182ac83335cdd390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_06
+    second: {fileID: 2100000, guid: 5616fde0578134e45914f7da5a21d3e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_07
+    second: {fileID: 2100000, guid: b341e7bf4a5e2445b8f47a2700b81eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_08
+    second: {fileID: 2100000, guid: 8e534cbba3ae94794a526d2b237456b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc_ma_09
+    second: {fileID: 2100000, guid: dc231b6922c2e48dbbbe9f269c2280aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_ma
+    second: {fileID: 2100000, guid: 926eb57f0b69e46c3aa623d781b5447f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 6a68c66faca134146ba4c02839c9d99a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smallObjects_ma
+    second: {fileID: 2100000, guid: 87d64f001a1964b06af308e07c5922b0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 4ecd90702bbef4fb886af72ac5aaeb36
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Book_Cover_Blue
+    2100002: Book_Cover_Tan
+    2100004: Book_Cover_Black
+    2100006: Book_Cover_Torquoise
+    2100008: Book_Cover_Red_Spine
+    2100010: Book_Cover_Red
+    2100012: Book_Cover_Ornate_Red
+    2100014: Book_Cover_Ornate_Gold
+    2100016: Book_Cover_Old_Green
+    2100018: Book_Cover_Grey_Blue
+    2100020: Book_Cover_Black_Spell
+    2100022: Book_Cover_Brown_Spell
+    2100024: Book_Cover_Dark_Teal
+    2100026: Book_Cover_Green
+    2100028: Book_Cover_Grey
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cube_006
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Black
+    second: {fileID: 2100000, guid: 568862ef991534b069ef2b9325ab9a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Black_Spell
+    second: {fileID: 2100000, guid: 4a364379531cd42e19540a608ee2572d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Blue
+    second: {fileID: 2100000, guid: b0e5a38eac07f4e849e7411caa3b1ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Brown_Spell
+    second: {fileID: 2100000, guid: f8ea37f438e164280854fc1fdbd692a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Dark_Teal
+    second: {fileID: 2100000, guid: 9ff12eb9fadaf4fd592c915c17110eb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Green
+    second: {fileID: 2100000, guid: f4d895efbfe854eb79528aa81df68a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Grey
+    second: {fileID: 2100000, guid: 3e8445eb8d5494bce9804d314a4ad2cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Grey_Blue
+    second: {fileID: 2100000, guid: a50e7b21aedbd4060bd11e765730ad18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Old_Green
+    second: {fileID: 2100000, guid: 61a8dc001592a4d31ae9343be2398a8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Ornate_Gold
+    second: {fileID: 2100000, guid: 2b4b1dc19d0ae4e3cad5e6a5f8d6e7a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Ornate_Red
+    second: {fileID: 2100000, guid: 5c7fe9f08b03547959483ddc57fabb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Red
+    second: {fileID: 2100000, guid: e9382953063bc4dbc85de02f964dd204, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Red_Spine
+    second: {fileID: 2100000, guid: 0b8b0d52ce9de49b7b8c76a1c1636557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Tan
+    second: {fileID: 2100000, guid: 2a929964c3a194c6b9a911d58059d446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover_Torquoise
+    second: {fileID: 2100000, guid: 2d89bf7bbc684411ea6a5f9437ab7a0c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
